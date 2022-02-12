@@ -4,7 +4,7 @@
 
 ## Fundamental concepts
 
-| Syntax               | Statements            | Functions             | Data structures     | Process & style      |
+| Syntax 🟩             | Statements 🟩         | Functions 🟩          | Data structures 🟩   | Process & style  🟩  |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | 🟦 value             | 🟦 if                 | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
 | 🟦 identifier        | 🟦 loops              | 🟦 function           | 🟦 instance         | 🟦 code review       |
